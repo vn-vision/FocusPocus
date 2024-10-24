@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/kzilla/ALX/IOT/smart_thermostat/include",
-                "/home/kzilla/ALX/IOT/smart_thermostat/src",
-                "/home/kzilla/ALX/IOT/smart_thermostat/.pio/libdeps/nodemcuv2/DHT sensor library",
-                "/home/kzilla/ALX/IOT/smart_thermostat/.pio/libdeps/nodemcuv2/Adafruit Unified Sensor",
+                "/home/kzilla/ALX/IOT/FocusPocus/smart_thermostat/include",
+                "/home/kzilla/ALX/IOT/FocusPocus/smart_thermostat/src",
+                "/home/kzilla/ALX/IOT/FocusPocus/smart_thermostat/.pio/libdeps/nodemcuv2/DHT sensor library",
+                "/home/kzilla/ALX/IOT/FocusPocus/smart_thermostat/.pio/libdeps/nodemcuv2/Adafruit Unified Sensor",
                 "/home/kzilla/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                 "/home/kzilla/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                 "/home/kzilla/.platformio/packages/toolchain-xtensa/include",
@@ -59,10 +59,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/kzilla/ALX/IOT/smart_thermostat/include",
-                    "/home/kzilla/ALX/IOT/smart_thermostat/src",
-                    "/home/kzilla/ALX/IOT/smart_thermostat/.pio/libdeps/nodemcuv2/DHT sensor library",
-                    "/home/kzilla/ALX/IOT/smart_thermostat/.pio/libdeps/nodemcuv2/Adafruit Unified Sensor",
+                    "/home/kzilla/ALX/IOT/FocusPocus/smart_thermostat/include",
+                    "/home/kzilla/ALX/IOT/FocusPocus/smart_thermostat/src",
+                    "/home/kzilla/ALX/IOT/FocusPocus/smart_thermostat/.pio/libdeps/nodemcuv2/DHT sensor library",
+                    "/home/kzilla/ALX/IOT/FocusPocus/smart_thermostat/.pio/libdeps/nodemcuv2/Adafruit Unified Sensor",
                     "/home/kzilla/.platformio/packages/framework-arduinoespressif8266/tools/sdk/include",
                     "/home/kzilla/.platformio/packages/framework-arduinoespressif8266/cores/esp8266",
                     "/home/kzilla/.platformio/packages/toolchain-xtensa/include",
